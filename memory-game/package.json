@@ -18,6 +18,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage:" "https://drewphillips.github.io/React_memory_game"
+  "homepage": "https://drewphillips.github.io/React_memory_game"
+
 }
 
