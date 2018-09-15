@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "build": "^0.1.4",
+    "gh-pages": "^1.2.0",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
-    "react-scripts": "1.1.5"
+    "react-scripts": "1.1.5",
+    "run": "^1.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -13,4 +16,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }
-}
+},
+"homepage:" "https://drewphillips.github.io/React_memory_game"
